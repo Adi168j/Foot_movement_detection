@@ -1,0 +1,21 @@
+# Backups
+foot_backup_*.zip
+submission.zip
+
+# Report folder and PDFs
+Report/
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Misc
+.gemini/
+*.exe
+UnityHubSetup-x64.exe
+
+# Keep model and confusion images
+# foot_model.joblib → included
+# confusion*.png    → included
